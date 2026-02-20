@@ -1,6 +1,6 @@
 # Task 2
 
-Had help from ChatGPT to generate the Dockerfile, with extensive descriptions about each part.
+Had help from ChatGPT to generate the `Dockerfile`, with extensive descriptions about each part.
 Also helped me with question 1. and 2. I gave it what i suspected to be the answers, and it course corrected me.
 
 ## Instructions
